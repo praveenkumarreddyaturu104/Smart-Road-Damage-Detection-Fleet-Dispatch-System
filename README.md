@@ -165,18 +165,6 @@ The YOLOv8 model was trained on a custom road damage dataset containing four dam
 
 ---
 
-# Evaluation Metrics
-
-| Metric | Score |
-|---------|------:|
-| mAP@50 | XX.XX% |
-| mAP@50-95 | XX.XX% |
-| Precision | XX.XX% |
-| Recall | XX.XX% |
-| F1 Score | XX.XX% |
-
----
-
 # Training Results
 
 The model training produced the following evaluation artifacts:
