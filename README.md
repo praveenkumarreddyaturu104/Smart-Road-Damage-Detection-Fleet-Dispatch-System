@@ -246,7 +246,7 @@ Bachelor of Technology (Artificial Intelligence & Machine Learning)
 
 GitHub: https://github.com/praveenkumarreddyaturu104
 
-LinkedIn: *Add your LinkedIn profile here*
+LinkedIn: www.linkedin.com/in/praveen-kumar-reddy-aturu-a196723a1
 
 ---
 
