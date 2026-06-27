@@ -1,0 +1,1 @@
+# Makes severity folder a package.

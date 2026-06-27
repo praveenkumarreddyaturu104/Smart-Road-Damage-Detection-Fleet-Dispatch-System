@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python
+torch
+torchvision
+ultralytics
+networkx
+streamlit
+folium
+scikit-learn
+reportlab
+plotly
