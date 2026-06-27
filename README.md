@@ -1,7 +1,6 @@
 Smart Road Damage Detection & Fleet Dispatch System
 
 Tech Stack: Python, YOLOv8, Streamlit, SQLite, OpenCV, Folium, Dijkstra Algorithm, GPS, Priority Queue, Haversine Formula.
-
 ---->Developed an AI-powered road damage detection system using YOLOv8 to identify potholes, longitudinal cracks, transverse cracks, and alligator cracks from road images.
 ---->Built a complete data preprocessing pipeline to convert Pascal VOC XML annotations into YOLO format, prepare datasets, and automate training workflows.
 ---->Designed an interactive Streamlit dashboard for uploading images, visualizing detections, monitoring analytics, and managing detected road damages.
